@@ -1,0 +1,14 @@
+{
+  "name": "movieQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/heyman333/GraphQL-study",
+  "author": "heyman333",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
